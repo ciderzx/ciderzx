@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Seungwoo Park!</h1>
-<h3 align="center">SW_ciderzx Portfolio and Project!</h3>
+<h1 align="left">Hello 👋, I'm Seungwoo Park!</h1>
+<h3 align="left">SW_ciderzx Portfolio and Project!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
