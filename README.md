@@ -39,13 +39,6 @@
 + **운전면허 2종 보통** 한국산업인력공단 : 2019.11.14 취득
 
 + **정보처리 기사** 한국산업인력공단 : 2022.06.17 취득
----
-
-<h2 align="left"> Connect with me : </h2>
-
-+ **Email** : ci___der@naver.com  /  ciderzx@gmail.com
-
-+ **Tel** : 010 - 2480 - 8647
 
 ---
 
