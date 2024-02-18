@@ -57,11 +57,11 @@
 <h2 align="left">Languages and Tools : </h2>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-   :  기초문법부터 함수사용, 포인터 자유자제 사용 가능
+   :  기초문법부터 Method사용, Pointer 자유자제 사용 가능
   </br> 
   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  :  기초문법부터 구조체, 이중포인터 사용 가능
+  :  기초문법부터 Structure, Double Linked List 사용 가능
   </br> 
   
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -69,11 +69,11 @@
   </br> 
   
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  :  기초문법부터 클래스 메서드 생성 및 사용 가능
+  :  기초문법부터 Class Method 생성 및 사용 가능
   </br> 
   
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  :  Android Studio를 활용하여 간단한 어플리케이션 개발 가능
+  :  Android Studio를 활용하여 간단한 Application 개발 가능
   </br> 
   
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
