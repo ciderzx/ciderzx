@@ -16,9 +16,6 @@
   
 ---
 
-
-<h2 align="left"> Profile 2024 </h2>
-
 + **Velog** : https://velog.io/@ci___der/posts
 
 + **Youtube** : https://www.youtube.com/@%EB%B0%95%EC%8A%B9%EC%9A%B0-n7u
