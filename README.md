@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="left"> Profile 2024 </h2>
+<h2 align="left"> Profile 2025 </h2>
 
 + **이름** : 박승우
 
@@ -14,6 +14,18 @@
 
 + **병역사항** : 2022.07.25 ~ 2024.01.24 해병 병장 만기전역
   
+---
+
+
+<h2 align="left"> Profile 2024 </h2>
+
++ **Velog** : https://velog.io/@ci___der/posts
+
++ **Youtube** : (https://www.youtube.com/@%EB%B0%95%EC%8A%B9%EC%9A%B0-n7u)
+
++ **Notion - Daily Log** : https://parallel-text-ddf.notion.site/14aa2cec959680e499e2ee58d34e3d38
+
++ **Notion - Unreal Portfolio** : https://parallel-text-ddf.notion.site/Unreal-Portfolio-15da2cec95968056879bd0b2103b1598
 ---
 
 <h2 align="left"> Graduation </h2>
