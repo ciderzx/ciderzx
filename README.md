@@ -10,9 +10,7 @@
 
 + **이름** : 박승우
 
-+ **거주지** : 경기도 안산시 단원구
-
-+ **병역사항** : 해병 병장 만기전역
++ **거주지** : 경기도 안산시
   
 ---
 
@@ -20,44 +18,43 @@
 
 + **Youtube** : https://www.youtube.com/@%EB%B0%95%EC%8A%B9%EC%9A%B0-n7u
 
-+ **Notion - Daily Log** : https://parallel-text-ddf.notion.site/14aa2cec959680e499e2ee58d34e3d38
-
 + **Notion - Unreal Portfolio** : https://parallel-text-ddf.notion.site/Unreal-Portfolio-15da2cec95968056879bd0b2103b1598
+
 ---
 
 <h2 align="left"> Graduation </h2>
 
-+ **2016** - 경기모바일과학고등학교 입학 : 모바일 콘텐츠과
-
-+ **2019** - 경기모바일과학고등학교 졸업 : 모바일 콘텐츠과
++ **2022** - 한국공학대학교 졸업 : ICT융합공학과
 
 + **2019** - 한국공학대학교 입학 : ICT융합공학과
 
-+ **2022** - 한국공학대학교 졸업 : ICT융합공학과
++ **2019** - 경기모바일과학고등학교 졸업 : 모바일 콘텐츠과
+
++ **2016** - 경기모바일과학고등학교 입학 : 모바일 콘텐츠과
 
 ---
 
 <h2 align="left"> License </h2>
 
-+ **정보처리기능사** 한국산업인력공단 : 2016.09.12 취득
++ **정보처리 기사** 한국산업인력공단 : 2022.06.17 취득
 
 + **정보기기운용기능사** 한국산업인력공단 : 2018.07.04 취득
 
-+ **정보처리 기사** 한국산업인력공단 : 2022.06.17 취득
++ **정보처리기능사** 한국산업인력공단 : 2016.09.12 취득
 
 ---
 
-<h2 align="left"> Projects </h2>
+<h2 align="left"> Unity Projects </h2>
 
-+ **2017** : 모바일 캐주얼 게임 개발 프로젝트 [https://github.com/ciderzx/Unity_KumchukKing.git]
-
-+ **2019** : 대학교 출석관리 시스템 프로젝트 [https://github.com/ciderzx/Cpp_Project.git]
-
-+ **2019** : The Lovers 프로젝트 [https://github.com/ciderzx/Unity_TheLoves.git]
++ **2024** : DAEDAP 프로젝트 [https://github.com/ciderzx/DAEDAP_Project]
 
 + **2021** : Mengo Tour 프로젝트 [https://github.com/ciderzx/Unity_MengoTour.git]
 
-+ **2024** : DAEDAP 프로젝트 [https://github.com/ciderzx/DAEDAP_Project]
++ **2019** : The Lovers 프로젝트 [https://github.com/ciderzx/Unity_TheLoves.git]
+
++ **2019** : 대학교 출석관리 시스템 프로젝트 [https://github.com/ciderzx/Cpp_Project.git]
+
++ **2017** : 모바일 캐주얼 게임 개발 프로젝트 [https://github.com/ciderzx/Unity_KumchukKing.git]
 
 ---
 
@@ -78,11 +75,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   :  기초문법부터 Class Method 생성 및 사용 가능
   </br> 
-  
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  :  Android Studio를 활용하여 간단한 Application 개발 가능
-  </br> 
-  
+
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   :  Unity를 활용하여 2D 및 3D 사용 가능, 각종 Asset을 사용가능, Photon Asset을 사용하여 서버 게임 개발 가능
   </br> 
